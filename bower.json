@@ -1,0 +1,21 @@
+{
+  "name": "gulper",
+  "description": "Project Assets Automation With Gulp.js",
+  "main": "Gulpfile.js",
+  "authors": [
+    "Patrick Der Avakian"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
